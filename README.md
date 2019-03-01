@@ -1,5 +1,3 @@
 # louisville-segregation
 
-This project was completed at University of Louisville in Fall 2018 semester for Math 560 Statistical Data Analysis. It was submitted to the USCLAP undergraduate statistics competition.
-
-The project uses census data to measure correlation between racial proportions by census tracts with socioeconomic variables. It is inspired by the work of Joshua Poe which compares modern socioeconomic maps of Louisville to old Redlining maps.
+This class project was completed for Math 560 Statistical Data Analysis at University of Louisville. It was submitted to the Fall 2018 USCLAP undergraduate statistics competition. I gathered demographic data from US Census Bureau and American Community Survey to measure the distribution of racial groups in Louisville, Kentucky. The dissimilarity index between Whites and Blacks in Louisville in 2010 was 0.562. I compared this distribution to socioeconomic factors like household income and proportion of owner-occupied housing. The result is strong correlation. This is due to residential racial segregation in Louisville.
